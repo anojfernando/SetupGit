@@ -1,2 +1,2 @@
-# SetupGit
-This is to get started GIT.
+# Temp
+Temp repo.
